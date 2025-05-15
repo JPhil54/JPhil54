@@ -1,4 +1,5 @@
-## Hi there 👋
+## Data Scientist - Midea America Research Center
+I am a data scientist with significant Python experience and a passion for ML
 
 <!--
 **JPhil54/JPhil54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
